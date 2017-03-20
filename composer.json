@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.2.0"
     },
-    "minimum-stability": "dev-master",
+    "minimum-stability": "beta",
     "autoload": {
         "classmap": [
             "src/migrations"
