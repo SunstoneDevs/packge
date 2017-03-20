@@ -16,7 +16,7 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-           "classmap": ["src/Code/teste.php"]
+           "classmap": ["src/Code/Teste.php"]
     }
 }
 
