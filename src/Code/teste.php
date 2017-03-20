@@ -4,7 +4,7 @@ namespace Michel\Code;
 
 class Teste{
 
-	 public function ola(){
+	 public function HelloWord(){
 	 	return "ola teste";
 	 }
 } 
