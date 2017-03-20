@@ -4,7 +4,7 @@
     "description": "teste",
     "license": "MIT",
     "type" :"libary",
-    "version" :"1.0.0",
+    "version" :"1.0",
     "authors": [
         {
             "name": "michel DAMASCENO",
@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.2.0"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "autoload": {
         "classmap": [
             "src/migrations"
